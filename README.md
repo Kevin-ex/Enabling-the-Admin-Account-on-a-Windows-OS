@@ -1,4 +1,3 @@
-# Enabling-the-Admin-Account-on-a-Windows-OS
 <h1>Managing Local Users on Windows OS</h1>
 
 <h2>Description</h2>
